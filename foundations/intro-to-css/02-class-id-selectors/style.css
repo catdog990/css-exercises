@@ -1,0 +1,18 @@
+.numbaOdd {
+    background-color: rgb(165, 59, 59);
+    font-family: 'Verdana', 'Dejavu Sans', 'sans-serif';
+}
+
+#numbaTo {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.numbaOdd.Ball {
+    font-size: 24px;
+}
+
+#numbaLast {
+    background-color:rgb(127, 247, 127);
+    font-size: 24px;
+}
