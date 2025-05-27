@@ -10,9 +10,11 @@
 
 .numbaOdd.Ball {
     font-size: 24px;
+    
 }
 
 #numbaLast {
     background-color:rgb(127, 247, 127);
     font-size: 24px;
+    font-weight: bold;
 }
