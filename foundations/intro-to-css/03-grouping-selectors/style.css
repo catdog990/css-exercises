@@ -1,0 +1,18 @@
+.buttBaby {
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
+.buttBaby.titties{
+    background-color: black;
+    color: white;
+}
+
+.buttBaby.lube{
+    background-color: yellow;
+}
+
+img{
+    height: 500px;
+    width: 300px;
+}
